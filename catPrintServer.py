@@ -6,6 +6,8 @@ import random
 import os
 from scapy.all import *
 
+api_key = ""
+
 def nohidden(path):
 	files = os.listdir(path)
     for f in files:
@@ -23,7 +25,7 @@ def arp_display(pkt):
                 print "Printing Cat!"
                 os.system("lpr -r {}".format("cats/" + catfname))
                 print(catfname)
-                r = requests.get("http://thecatapi.com/api/images/get?format=src&size=full&type=jpg")
+                r = requests.get("http://thecatapi.com/api/images/get?format=src&size=full&type=jpg&api_key=" + api_key)
 		urllib.urlretrieve(r.url, "cats/" + catfname)
                 print "Cat Replaced"
 
