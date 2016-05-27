@@ -18,6 +18,12 @@ Settings -> Applications -> Application manager -> Amazon -> Notifications -> Tu
 ```
 pip install -r requirements.txt
 ```
+* Optional: If you want access to a bigger pool of cat images, you can add an api key to catPrintServer.py
+You can apply for an API key [here](http://thecatapi.com/api-key-registration.html)
+Then, add your key to the end of line 26 like so
+```
+r = requests.get("http://thecatapi.com/api/images/get?format=src&size=full&type=jpg&api_key=YOURAPIKEYHERE")
+```
 
 #### Usage
 
