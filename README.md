@@ -49,3 +49,4 @@ sudo ./catPrintServer.py
 
 Now press your button! After a little bit of a wait, you should have a cat come out of your default printer!
 
+![Cat Picture](http://i.imgur.com/Q162Uxc.jpg)
