@@ -40,6 +40,8 @@ Note: The following commands have to be run with sudo in order to be able to lis
 ```
 sudo ./getMac.py
 ```
+* Press your Amazon Dash button, and wait until a MAC address appears in your terminal window. You can then quit the program with ctrl+c
+
 * Copy that MAC address and replace the MAC address on line 20 of catPrintServer.py
 
 * To start listening for the Amazon Dash button, run the following command in the main directory
