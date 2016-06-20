@@ -26,7 +26,7 @@ python -m pip install -r requirements.txt
 ```
 
 * Optional: If you want access to a bigger pool of cat images, you can add an API key to catPrintServer.py
-You can apply for an API key [here](http://thecatapi.com/api-key-registration.html)
+You can apply for an API key [here.](http://thecatapi.com/api-key-registration.html)
 Then, add your key to the end of line 9 like so
 ```
 api_key = "YOUR_API_KEY_HERE"
