@@ -3,7 +3,7 @@
 **Note:** Currently tested on Linux and OSX. Windows testing coming soon.
 ![Cat Print Button](http://i.imgur.com/72GDvqv.jpg)
 #### Installation
-**Note:** You need an Amazon Dah Button to use this! Unfortunately, they are only available to Amazon Prime members. If you are a student with an active .edu email address, you can sign up for a free trial of Amazon Prime. If you aren't I'm sure you can find someone that has Amazon Prime. You can purchase them [here](http://www.amazon.com/b?node=10667898011). It doesn't matter which button you choose.
+**Note:** You need an Amazon Dash Button to use this! Unfortunately, they are only available to Amazon Prime members. If you are a student with an active .edu email address, you can sign up for a free trial of Amazon Prime. If you aren't I'm sure you can find someone that has Amazon Prime. You can purchase them [here](http://www.amazon.com/b?node=10667898011). It doesn't matter which button you choose.
 
 ##### Dash Button Setup
 * Follow the instructions [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=201746340) for setting up your Dash button, but **only do steps 1 through 5.** ***Do not do step 6!***
@@ -14,6 +14,8 @@ Settings -> Applications -> Application manager -> Amazon -> Notifications -> Tu
 ```
 
 ##### Script Installation
+* Note: If you're having issues installing on OSX, try following some of the advice featured [here](http://juhalaaksonen.com/blog/2013/12/11/installing-scapy-for-mac-os-x/)
+
 * Install python and pip, if they aren't already installed
 
 * Run the following command in the main directory to install the required python packages
