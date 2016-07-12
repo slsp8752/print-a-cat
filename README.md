@@ -1,6 +1,6 @@
 # The Print-a-Cat Button
 ### Augment your printer to print cats using the Amazon Dash button
-**Note:** Currently tested on Linux and OSX. Windows testing coming soon.
+**Note:** Currently tested on Linux and OSX. A Windows version might get made eventually.
 ![Cat Print Button](http://i.imgur.com/72GDvqv.jpg)
 #### Installation
 **Note:** You need an Amazon Dash Button to use this! Unfortunately, they are only available to Amazon Prime members. If you are a student with an active .edu email address, you can sign up for a free trial of Amazon Prime. If you aren't I'm sure you can find someone that has Amazon Prime. You can purchase them [here](http://www.amazon.com/b?node=10667898011). It doesn't matter which button you choose.
