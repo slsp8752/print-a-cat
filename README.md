@@ -14,7 +14,7 @@ Settings -> Applications -> Application manager -> Amazon -> Notifications -> Tu
 ```
 
 ##### Script Installation
-* Note: If you're having issues installing on OSX, try following some of the advice featured [here](http://juhalaaksonen.com/blog/2013/12/11/installing-scapy-for-mac-os-x/)
+**Note:** If you're having issues installing on OSX, try following some of the advice featured [here.](http://juhalaaksonen.com/blog/2013/12/11/installing-scapy-for-mac-os-x/)
 
 * Install python and pip, if they aren't already installed
 
